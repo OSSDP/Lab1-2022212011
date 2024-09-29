@@ -20,6 +20,6 @@ int main()
             {s.pop();  t.pop(); }  
         else { flag=0;break;}  
     }  
-    cout<<flag<<" "<<endl;   
+    cout<<flag<<endl;   
     return 0;  
 } 
